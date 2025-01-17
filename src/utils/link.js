@@ -7,6 +7,7 @@ const socialLinks = {
   codeforces: "https://codeforces.com/profile/Meguminz",
   tryHackMe: "https://tryhackme.com/r/p/Meguminz",
   github: "https://github.com/paiscapital",
+  x: "https://x.com/paiscapital_",
   email: "mailto:admin@gmail.com",
   hireMe: "mailto:admin@gmail.com",
   downloadCV: "/cv.pdf",
