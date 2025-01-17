@@ -8,7 +8,8 @@ const socialLinks = {
   tryHackMe: "https://tryhackme.com/r/p/Meguminz",
   email: "mailto:admin@gmail.com",
   hireMe: "mailto:admin@gmail.com",
-  downloadCV: "/cv.pdf"
+  downloadCV: "/cv.pdf",
+  soon: "#soon"
 };
 
 const navigationLink = {
