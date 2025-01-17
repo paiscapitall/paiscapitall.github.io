@@ -17,6 +17,7 @@ const navigationLink = {
   home: '#',
   project: '#project',
   about: '#about',
-  blog: '/blog', // Mengarahkan ke halaman /blog  
+  blog: '/blog',
+  soon: '#soon',
   connect: '#connect'
 };
