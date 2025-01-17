@@ -6,6 +6,7 @@ const socialLinks = {
   cryptoHack: "https://cryptohack.org/user/Meguminz/",
   codeforces: "https://codeforces.com/profile/Meguminz",
   tryHackMe: "https://tryhackme.com/r/p/Meguminz",
+  github: "https://github.com/paiscapital",
   email: "mailto:admin@gmail.com",
   hireMe: "mailto:admin@gmail.com",
   downloadCV: "/cv.pdf",
