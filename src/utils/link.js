@@ -20,5 +20,6 @@ const navigationLink = {
   about: '#about',
   blog: '/blog',
   soon: '#soon',
-  connect: '#connect'
+  connect: '#connect',
+  crypto: 'https://github.com/paiscapital/Cryptography'
 };
