@@ -7,6 +7,7 @@ const socialLinks = {
   codeforces: "https://codeforces.com/profile/Meguminz",
   tryHackMe: "https://tryhackme.com/r/p/Meguminz",
   github: "https://github.com/paiscapital",
+  crypto: 'https://github.com/paiscapital/Cryptography',
   x: "https://x.com/paiscapital_",
   email: "mailto:admin@gmail.com",
   hireMe: "mailto:admin@gmail.com",
@@ -20,6 +21,5 @@ const navigationLink = {
   about: '#about',
   blog: '/blog',
   soon: '#soon',
-  connect: '#connect',
-  crypto: 'https://github.com/paiscapital/Cryptography'
+  connect: '#connect'
 };
