@@ -8,6 +8,7 @@ const socialLinks = {
   tryHackMe: "https://tryhackme.com/r/p/Meguminz",
   github: "https://github.com/paiscapital",
   crypto: 'https://github.com/paiscapital/Cryptography',
+  pico:"https://play.picoctf.org/users/Meguminz",
   x: "https://x.com/paiscapital_",
   email: "mailto:admin@gmail.com",
   hireMe: "mailto:admin@gmail.com",
