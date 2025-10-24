@@ -8,6 +8,7 @@ const socialLinks = {
   tryHackMe: "https://tryhackme.com/r/p/Meguminz",
   projecteuler: "https://projecteuler.net/progress=Meguminz",
   github: "https://github.com/paiscapital",
+  linktree: "https://linktr.ee/paiscapital",
   crypto: 'https://github.com/paiscapital/Cryptography',
   pico:"https://play.picoctf.org/users/Meguminz",
   x: "https://x.com/paiscapital_",
