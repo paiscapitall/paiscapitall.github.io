@@ -11,6 +11,7 @@ const socialLinks = {
   linktree: "https://linktr.ee/paiscapital",
   crypto: 'https://github.com/paiscapital/Cryptography',
   pico: "https://play.picoctf.org/users/Meguminz",
+  blog: "https://pais.hashnode.dev/",
   melib: "https://github.com/paiscapital/Project",
   x: "https://x.com/paiscapital_",
   email: "mailto:admin@gmail.com",
